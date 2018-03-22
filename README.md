@@ -1,2 +1,3 @@
-# workflows
-A project to showcase workflows
+# Workflow Management
+
+This project is an example of workflow management
